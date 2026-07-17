@@ -1,0 +1,24 @@
+# AI Smart Document Studio
+
+## Features
+
+- Merge PDF, DOCX and Images
+- Extract PDF Pages
+- Extract PDF Text
+- Translate Text
+- Convert Text to Speech
+- Download PDF and Audio
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+Run
+
+```bash
+streamlit run app.py
+```
+
+Deploy the project by pushing it to GitHub and connecting the repository to Streamlit Community Cloud.
